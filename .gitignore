@@ -1,0 +1,14 @@
+# Archivos temporales de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos generados al compilar
+[Bb]in/
+[Oo]bj/
+
+# Resultados de pruebas y registros
+[Tt]est[Rr]esult*/
+*.log
